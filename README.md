@@ -12,7 +12,7 @@
 | [`math-analysis/`](math-analysis/) | Математика (математический анализ) | контрольная работа выполнена |
 | [`probability-statistics/`](probability-statistics/) | Теория вероятности и математическая статистика | не начато |
 | [`self-development/`](self-development/) | Основы саморазвития, самообразования и самоорганизации | тест пройден |
-| [`communications/`](communications/) | Основы эффективных коммуникаций | не начато |
+| [`communications/`](communications/) | Основы эффективных коммуникаций | тест пройден |
 
 ## Соглашения
 
