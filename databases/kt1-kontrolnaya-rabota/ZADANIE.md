@@ -31,11 +31,11 @@
 
 ## Файлы решения
 
-- [`solution/Контрольная работа. Базы данных. Страховая компания.docx`](solution/) — **файл для сдачи** (готов к прикреплению в личном кабинете)
+- [`solution/Контрольная работа. Базы данных. Страховая компания.docx`](solution/) — **файл для сдачи**
 - [`solution/Контрольная_работа_БД_Страховая_компания.md`](solution/Контрольная_работа_БД_Страховая_компания.md) — тот же текст в markdown
-- [`solution/schema.sql`](solution/schema.sql) — DDL-скрипт схемы (PostgreSQL)
-- [`solution/seed.sql`](solution/seed.sql) — заполнение БД данными (экземпляр БД)
-- `solution/er-diagramma.png`, `solution/shema-relyacionnoy-bd.png` — диаграммы
+- [`solution/schema.sql`](solution/schema.sql) — создание таблиц
+- [`solution/zapolnenie.sql`](solution/zapolnenie.sql) — заполнение таблиц данными
+- `solution/er-diagramma.png`, `solution/shema-bd.png` — рисунки 1 и 2
 
 ## Материалы
 
